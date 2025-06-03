@@ -12,7 +12,7 @@ const int httpsPort = 443;
 String org = "sua org";
 String bucket = "seu bucket";
 String token = "seu token";
-// copia do token BYdKN0AvRkJlsnuM3TNXl4H8tzrcJZGns8eoGLEUIbyG9dBhZnuzevtK35e1XBshc7UOMogZUrgEPlTCx5DHoA==
+
 
 // Exemplo: "sensor_umidade,sensor=esp32 umidade=45.3"
 String getLineProtocol(float umidade) {
