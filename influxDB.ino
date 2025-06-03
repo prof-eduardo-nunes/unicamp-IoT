@@ -9,9 +9,9 @@ const char* influxHost = "us-east-1-1.aws.cloud2.influxdata.com"; // ajuste conf
 const int httpsPort = 443;
 
 // InfluxDB configs
-String org = "69379f7591f5f27d";
-String bucket = "9b0832a5ac61ad04";
-String token = "BYdKN0AvRkJlsnuM3TNXl4H8tzrcJZGns8eoGLEUIbyG9dBhZnuzevtK35e1XBshc7UOMogZUrgEPlTCx5DHoA==";
+String org = "sua org";
+String bucket = "seu bucket";
+String token = "seu token";
 // copia do token BYdKN0AvRkJlsnuM3TNXl4H8tzrcJZGns8eoGLEUIbyG9dBhZnuzevtK35e1XBshc7UOMogZUrgEPlTCx5DHoA==
 
 // Exemplo: "sensor_umidade,sensor=esp32 umidade=45.3"
